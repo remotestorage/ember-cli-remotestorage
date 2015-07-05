@@ -1,5 +1,7 @@
 # ember-cli-remotestorage
 
+[![Build Status](https://travis-ci.org/remotestorage/ember-cli-remotestorage.svg?branch=master)](https://travis-ci.org/remotestorage/ember-cli-remotestorage)
+
 Adds [remoteStorage.js](https://github.com/remotestorage/remotestorage.js) to
 your Ember application, so your users can choose where to store/sync their app
 data and you don't have to run a back-end for that.
