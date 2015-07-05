@@ -2,5 +2,11 @@
 'use strict';
 
 module.exports = {
-  name: 'ember-cli-remotestorage'
+  name: 'ember-cli-remotestorage',
+
+  included: function(app) {
+    this._super.included(app);
+
+    app.import(app.bowerDirectory + '/remotestorage/remotestorage.js');
+  }
 };

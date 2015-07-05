@@ -1,6 +1,6 @@
 {
   "name": "ember-cli-remotestorage",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "Adds remoteStorage.js to your Ember app.",
   "directories": {
     "doc": "doc",
@@ -37,7 +37,10 @@
     "ember-try": "0.0.6"
   },
   "keywords": [
-    "ember-addon"
+    "ember-addon",
+    "remotestorage",
+    "offline-first",
+    "no-backend"
   ],
   "dependencies": {
     "ember-cli-babel": "^5.0.0"
