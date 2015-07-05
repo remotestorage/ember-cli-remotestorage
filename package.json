@@ -1,6 +1,6 @@
 {
   "name": "ember-cli-remotestorage",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "The default blueprint for ember-cli addons.",
   "directories": {
     "doc": "doc",
@@ -11,11 +11,13 @@
     "build": "ember build",
     "test": "ember try:testall"
   },
-  "repository": "",
+  "repository": "https://github.com/remotestorage/ember-cli-remotestorage",
   "engines": {
     "node": ">= 0.10.0"
   },
-  "author": "",
+  "authors": [
+    "Sebastian Kippe <sebastian@kip.pe>"
+  ],
   "license": "MIT",
   "devDependencies": {
     "broccoli-asset-rev": "^2.0.2",
