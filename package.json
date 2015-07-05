@@ -1,7 +1,7 @@
 {
   "name": "ember-cli-remotestorage",
   "version": "0.1.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "description": "Adds remoteStorage.js to your Ember app.",
   "directories": {
     "doc": "doc",
     "test": "tests"
