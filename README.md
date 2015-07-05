@@ -1,6 +1,8 @@
-# Ember-cli-remotestorage
+# ember-cli-remotestorage
 
-This README outlines the details of collaborating on this Ember addon.
+Adds [remoteStorage.js](https://github.com/remotestorage/remotestorage.js) to
+your Ember application, so your users can choose where to store/sync their app
+data and you don't have to run a back-end for that.
 
 ## Installation
 
