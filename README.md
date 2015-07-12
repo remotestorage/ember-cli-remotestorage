@@ -1,6 +1,7 @@
 # ember-cli-remotestorage
 
 [![Build Status](https://travis-ci.org/remotestorage/ember-cli-remotestorage.svg?branch=master)](https://travis-ci.org/remotestorage/ember-cli-remotestorage)
+[![npm](https://img.shields.io/npm/v/ember-cli-remotestorage.svg)](https://www.npmjs.com/package/ember-cli-remotestorage)
 
 Adds [remoteStorage.js](https://github.com/remotestorage/remotestorage.js) to
 your Ember application, so your users can choose where to store/sync their app
