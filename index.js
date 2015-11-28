@@ -7,6 +7,6 @@ module.exports = {
   included: function(app) {
     this._super.included(app);
 
-    app.import(app.bowerDirectory + '/remotestorage/remotestorage.js');
+    app.import(app.bowerDirectory + '/remotestorage/release/stable/remotestorage.js');
   }
 };
