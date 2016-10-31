@@ -14,6 +14,6 @@
     "qunit": "~1.17.1"
   },
   "devDependencies": {
-    "remotestorage": "~0.11.2"
+    "remotestorage": "~0.13.0"
   }
 }

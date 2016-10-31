@@ -13,6 +13,6 @@ var EmberAddon = require('ember-cli/lib/broccoli/ember-addon');
 
 var app = new EmberAddon();
 
-app.import(app.bowerDirectory + '/remotestorage/remotestorage.js');
+app.import(app.bowerDirectory + '/remotestorage/release/stable/remotestorage.js');
 
 module.exports = app.toTree();
